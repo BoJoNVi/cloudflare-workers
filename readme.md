@@ -21,7 +21,7 @@ Purpose and definition for each tools within the project.
 # Project Structure
 
 - **src**
-  - **`index.ts`**: Main file to execute when starting / running the project.
+  - **`index.ts:`** Main file to execute when starting / running the project.
 - **`package.json:`** Project overview information, such as project versions, packages used, etc.
 - **`readme.md:`** Project documentation.
 - **`tsconfig.json:`** TypeScript configuration for the project.
